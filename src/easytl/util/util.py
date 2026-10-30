@@ -1,5 +1,5 @@
-## Copyright 2024 Kaden Bilyeu (Bikatr7) (https://github.com/Bikatr7), Alejandro Mata (https://github.com/alemalvarez)
-## EasyTL (https://github.com/Bikatr7/EasyTL)
+## Copyright 2024 Kaden Bilyeu (https://github.com/ktbilyeu), Alejandro Mata (https://github.com/alemalvarez)
+## EasyTL (https://github.com/ktbilyeu/EasyTL)
 ## Use of this source code is governed by an GNU Lesser General Public License v2.1
 ## license that can be found in the LICENSE file.
 
@@ -154,7 +154,7 @@ def _estimate_cost(text:str | typing.Iterable, model:str, price_case:int | None 
 
     """
 
-    assert model in ALLOWED_OPENAI_MODELS + ALLOWED_GEMINI_MODELS + ALLOWED_ANTHROPIC_MODELS, f"""EasyTL does not support : {model}, if you believe this is an error, please report it to the EasyTL GitHub repository (https://github.com/Bikatr7/EasyTL)."""
+    assert model in ALLOWED_OPENAI_MODELS + ALLOWED_GEMINI_MODELS + ALLOWED_ANTHROPIC_MODELS, f"""EasyTL does not support : {model}, if you believe this is an error, please report it to the EasyTL GitHub repository (https://github.com/ktbilyeu/EasyTL)."""
 
     ## default models are first, then the rest are sorted by price case
     if(price_case is None):

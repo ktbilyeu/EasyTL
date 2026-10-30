@@ -23,7 +23,7 @@ Seamless Multi-API Translation: Simplifying Language Barriers with DeepL, OpenAI
 
 EasyTL allows for the overriding of the default base URL for the OpenAI API. This is useful for services like OpenRouter that are compatible with the OpenAI API to use custom LLMs not explicitly supported by EasyTL.
 
-We've compiled a repository of examples and use cases for EasyTL at this [GitHub repository](https://github.com/Bikatr7/easytl-demo)
+We've compiled a repository of examples and use cases for EasyTL at this [GitHub repository](https://github.com/ktbilyeu/easytl-demo)
 
 > [!TIP]
 > You can find the full documentation [here](https://easytl.readthedocs.io/en/latest/index.html)! (work in progress)
@@ -208,11 +208,11 @@ The LGPL is a permissive copyleft license that enables this software to be freel
 
 ## **Contact**<a name="contact"></a>
 
-If you have any questions or suggestions, feel free to reach out to me at [Bikatr7@proton.me](mailto:Bikatr7@proton.me)
+If you have any questions or suggestions, feel free to reach out to me at [kadenbilyeu@proton.me](mailto:kadenbilyeu@proton.me)
 
-Also feel free to check out the [GitHub repository](https://github.com/Bikatr7/EasyTL) for this project.
+Also feel free to check out the [GitHub repository](https://github.com/ktbilyeu/EasyTL) for this project.
 
-Or the issue tracker [here](https://github.com/Bikatr7/EasyTL/issues).
+Or the issue tracker [here](https://github.com/ktbilyeu/EasyTL/issues).
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
@@ -224,7 +224,7 @@ Contributions are welcome! I don't have a specific format for contributions, but
 
 ## **Acknowledgements**<a name="acknowledgements"></a>
 
-EasyTL was originally developed as a part of [Kudasai](https://github.com/Bikatr7/Kudasai), a Japanese preprocessor later turned Machine Translator. It was later split off into its own package to be used independently of Kudasai for multiple reasons.
+EasyTL was originally developed as a part of [Kudasai](https://github.com/ktbilyeu/Kudasai), a Japanese preprocessor later turned Machine Translator. It was later split off into its own package to be used independently of Kudasai for multiple reasons.
 
 This package is also my second serious attempt at creating a Python package, so I'm sure there are some things that could be improved. Feedback is welcomed.
 

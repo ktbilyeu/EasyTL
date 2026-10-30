@@ -1,9 +1,9 @@
-## Copyright 2024 Kaden Bilyeu (Bikatr7) (https://github.com/Bikatr7), Alejandro Mata (https://github.com/alemalvarez)
-## EasyTL (https://github.com/Bikatr7/EasyTL)
+## Copyright 2024 Kaden Bilyeu (https://github.com/ktbilyeu), Alejandro Mata (https://github.com/alemalvarez)
+## EasyTL (https://github.com/ktbilyeu/EasyTL)
 ## Use of this source code is governed by an GNU Lesser General Public License v2.1
 ## license that can be found in the LICENSE file.
 
-## Costs & Models are determined and updated manually, listed in USD. Updated by Bikatr7 as of 2025-04-25
+## Costs & Models are determined and updated manually, listed in USD. Updated by Kaden Bilyeu as of 2025-04-25
 ## https://platform.openai.com/docs/models/overview
 
 ## needs aliases as well as specific model dates

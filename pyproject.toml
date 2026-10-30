@@ -24,7 +24,7 @@ dependencies = [
 name = "easytl"
 version = "v0.6.0"
 authors = [
-  { name="Kaden Bilyeu (Bikatr7)", email="Bikatr7@proton.me"},
+  { name="Kaden Bilyeu", email="kadenbilyeu@proton.me"},
   { name="Alejandro Mata", email="alemalvarez@icloud.com"},
 ] 
 description = "Seamless Multi-API Translation: Simplifying Language Barriers with DeepL, OpenAI, Gemini, Google Translate and More."
@@ -39,6 +39,6 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/Bikatr7/EasyTL"
-Issues = "https://github.com/Bikatr7/EasyTL/issues"
+Homepage = "https://github.com/ktbilyeu/EasyTL"
+Issues = "https://github.com/ktbilyeu/EasyTL/issues"
 Documentation = "https://easytl.readthedocs.io/en/latest/index.html"
